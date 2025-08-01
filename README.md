@@ -105,5 +105,3 @@ If you have any questions or want to collaborate, reach out to me on Codeforces 
 Happy Coding! 🚀
 
 ---
-
-*This README was generated to provide a professional, organized overview of a Codeforces-focused competitive programming repo with CPH and binary management scripts.*

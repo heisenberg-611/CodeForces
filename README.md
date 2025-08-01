@@ -5,14 +5,15 @@ Welcome to my **Codeforces** problem-solving repository! This repo is designed a
 ---
 
 ## Repository Structure
-/
-├── bin/ # Compiled binaries (executables) are stored here
-├── root/ # Main workspace where all source code files reside
-├── .cph/ # Configuration folder for Competitive Programming Helper (CPH) extension
-├── .vscode/ # VS Code configuration files (tasks, c_cpp_properties, settings)
-├── bin_mover_into_bin.py # Python script to move executables from root to bin/
-├── bin_mover_outof_bin.py # Python script to move executables from bin/ back to root/
-└── README.md # This file
+```plaintext
+├── bin/                 # Compiled binaries (executables) are stored here
+├── root/                # Main workspace where all source code files reside
+├── .cph/                # Configuration folder for Competitive Programming Helper (CPH) extension
+├── .vscode/             # VS Code configuration files (tasks, launch, settings)
+├── organize_bin.py      # Python script to move executables from root to bin/
+├── move_out_bin.py      # Python script to move executables from bin/ back to root/
+└── README.md            # This file
+
 
 ---
 

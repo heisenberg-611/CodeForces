@@ -13,7 +13,7 @@ Welcome to my **Codeforces** problem-solving repository! This repo is designed a
 ├── organize_bin.py      # Python script to move executables from root to bin/
 ├── move_out_bin.py      # Python script to move executables from bin/ back to root/
 └── README.md            # This file
-
+```
 
 ---
 
